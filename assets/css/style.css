@@ -88,9 +88,9 @@ body {
 }
 
 @media (max-width: 700px) {
-    
+
     #gameBoard {
-        grid-template: 1fr 1fr 1fr 1fr 1fr 1fr 1fr/ 1fr 1fr 1fr;
+        grid-template: 1fr 1fr 1fr 1fr 1fr 1fr 1fr/ 1fr 1fr 1fr !important;
     }
 
     .card {
